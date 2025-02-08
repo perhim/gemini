@@ -1,0 +1,12 @@
+aiogram
+aiohttp
+aiosqlite
+aiolimiter
+aiohttp-socks
+async-timeout
+backoff
+beautifulsoup4
+prometheus_client
+python-dotenv
+redis
+schedule
